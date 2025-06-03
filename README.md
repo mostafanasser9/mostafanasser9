@@ -8,7 +8,7 @@ I'm a 3rd year student at the Arab Academy for Science, Technology and Maritime 
 
 ## 🌟 Favorite Project
 
-### [Mazika](https://github.com/mostafanasser9/mazika)
+### [mazika](https://github.com/mostafanasser9/mazika)
 Mazika is a music streaming UI built with React (Vite) and Material UI. It features dynamic search, trending songs, artist pages, a mini player, and a clean, responsive design. Perfect for showcasing UI/UX skills and React component architecture.
 
 ## 📊 GitHub Stats
