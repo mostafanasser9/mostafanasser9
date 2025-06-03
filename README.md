@@ -3,7 +3,6 @@
 I'm a 3rd year student at the Arab Academy for Science, Technology and Maritime Transport, studying at the College of Computing and Information Technology with a major in Software Engineering.
 
 ## 🚀 Tech Stack
-- C
 - Java
 - JavaScript
 
