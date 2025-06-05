@@ -35,4 +35,8 @@ Mazika is a music streaming UI built with React (Vite) and Material UI. It featu
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mostafanasser04/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mostafanasser04/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mostafaadelnasser@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github&logoColor=white)](https://mostafanasser9.github.io/)
+
+
