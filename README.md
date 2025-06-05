@@ -1,10 +1,16 @@
 # Hi there, I'm Mostafa Nasser! 👋
 
-I'm a 3rd year student at the Arab Academy for Science, Technology and Maritime Transport, studying at the College of Computing and Information Technology with a major in Software Engineering.
+I'm a 3rd-year Software Engineering student at the Arab Academy for Science, Technology and Maritime Transport, aiming to become a full-stack developer with strong skills in both frontend and backend technologies.
+
 
 ## 🚀 Tech Stack
-- Java
-- JavaScript
+- Frontend: React, Material UI, HTML5, CSS3, JavaScript
+- Backend: Node.js, Express, Java
+- Databases: MongoDB, Firebase
+- Tools: Git, Docker, Figma, VS Code
+
+Currently starting to expand into .NET technologies, including C#, ASP.NET Core (MVC & Web API), and SQL Server.
+
 
 ## 🌟 Favorite Project
 
