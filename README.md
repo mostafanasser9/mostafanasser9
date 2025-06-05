@@ -1,31 +1,38 @@
 # Hi there, I'm Mostafa Nasser! 👋
 
-I'm a 3rd-year Software Engineering student at the Arab Academy for Science, Technology and Maritime Transport, aiming to become a full-stack developer with strong skills in both frontend and backend technologies.
+I'm a Software Engineering student at the Arab Academy for Science, Technology & Maritime Transport, focused on full-stack web development. I have experience with core technologies like Java and JavaScript, and I build projects using frameworks such as React.js and Material UI. I’m also skilled in UI/UX design using Figma to create clean, user-friendly interfaces.
 
+Currently, I'm expanding my backend skills by learning the .NET ecosystem—including C#, ASP.NET Core (MVC & Web API), and SQL Server. I am passionate about building scalable, user-friendly applications and always eager to explore new tools and technologies.
+
+I'm actively looking for opportunities where I can contribute, grow, and deepen my full-stack development experience.
+
+---
 
 ## 🚀 Tech Stack
-- Frontend: React, Material UI, HTML5, CSS3, JavaScript
-- Backend: Node.js, Express, Java
-- Databases: MongoDB, Firebase
-- Tools: Git, Docker, Figma, VS Code
 
-Currently starting to expand into .NET technologies, including C#, ASP.NET Core (MVC & Web API), and SQL Server.
+- **Frontend:** React, Material UI, HTML5, CSS3, JavaScript  
+- **Backend:** Node.js, Express, Java  
+- **Databases:** MongoDB, Firebase  
+- **Tools & Others:** Git, Docker, Figma, VS Code  
 
+Currently diving into the .NET stack: C#, ASP.NET Core, SQL Server.
 
-## 🌟 Favorite Project
+---
 
-### [mazika](https://github.com/mostafanasser9/mazika)
-Mazika is a music streaming UI built with React (Vite) and Material UI. It features dynamic search, trending songs, artist pages, a mini player, and a clean, responsive design. Perfect for showcasing UI/UX skills and React component architecture.
+## 🌟 Featured Project
+
+### [Mazika](https://github.com/mostafanasser9/mazika)  
+Mazika is a music streaming UI built with React (Vite) and Material UI. It features dynamic search, trending songs, artist pages, a mini player, and a clean, responsive design. This project showcases UI/UX skills and React component architecture.
+
+---
 
 ## 📊 GitHub Stats
 
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafanasser9&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafanasser9&layout=compact&theme=radical)
+![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafanasser9&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafanasser9&layout=compact&theme=radical)
+
+---
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mostafanasser04/)
-
-<!--
-**mostafanasser9/mostafanasser9** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
