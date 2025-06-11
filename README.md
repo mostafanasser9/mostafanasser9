@@ -13,7 +13,7 @@ I'm actively looking for opportunities where I can contribute, grow, and deepen 
 - **Frontend:** React, Material UI, HTML5, CSS3, JavaScript  
 - **Backend:** Node.js, Express, Java  
 - **Databases:** MongoDB, Firebase  
-- **Tools & Others:** Git, Docker, Figma, VS Code  
+- **Tools & Others:** Git, Figma, VS Code, Android Studio 
 
 Currently diving into the .NET stack: C#, ASP.NET Core, SQL Server.
 
