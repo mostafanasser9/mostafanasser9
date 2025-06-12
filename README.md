@@ -1,10 +1,8 @@
 # Hi there, I'm Mostafa Nasser! 👋
 
-I'm a Software Engineering student at the Arab Academy for Science, Technology & Maritime Transport, focused on full-stack web development. I have experience with core technologies like Java and JavaScript, and I build projects using frameworks such as React.js and Material UI. I’m also skilled in UI/UX design using Figma to create clean, user-friendly interfaces.
+I'm a Software Engineering student at the Arab Academy for Science, Technology & Maritime Transport, focused on full-stack web development. I have worked with core technologies like Java and JavaScript, and I have built projects using frameworks such as React.js and Material UI. I’m also skilled in UI/UX design using Figma to create clean, user-friendly interfaces.
 
-Currently, I'm expanding my backend skills by learning the .NET ecosystem—including C#, ASP.NET Core (MVC & Web API), and SQL Server. I am passionate about building scalable, user-friendly applications and always eager to explore new tools and technologies.
-
-I'm actively looking for opportunities where I can contribute, grow, and deepen my full-stack development experience.
+I'm actively seeking opportunities where I can contribute, grow, and expand my full-stack development experience.
 
 ---
 
@@ -13,16 +11,13 @@ I'm actively looking for opportunities where I can contribute, grow, and deepen 
 - **Frontend:** React, Material UI, HTML5, CSS3, JavaScript  
 - **Backend:** Node.js, Express, Java  
 - **Databases:** MongoDB, Firebase  
-- **Tools & Others:** Git, Figma, VS Code, Android Studio 
-
-Currently diving into the .NET stack: C#, ASP.NET Core, SQL Server.
-
+- **Tools & Others:** Git, Figma, VS Code, Android Studio
 ---
 
 ## 🌟 Featured Project
 
 ### [Mazika](https://github.com/mostafanasser9/mazika)  
-Mazika is a music streaming UI built with React (Vite) and Material UI. It features dynamic search, trending songs, artist pages, a mini player, and a clean, responsive design. This project showcases UI/UX skills and React component architecture.
+Mazika is a responsive music streaming web app built with React (Vite) and Material UI, featuring dynamic search, playlists, artist pages, and a mini player. Backend powered by Node.js, Express, MongoDB Atlas, and SendGrid.
 
 ---
 
