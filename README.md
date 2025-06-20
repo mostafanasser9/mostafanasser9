@@ -16,7 +16,7 @@ I'm actively seeking opportunities where I can contribute, grow, and expand my f
 
 ## 🌟 Featured Project
 
-### [Mazika](https://github.com/mostafanasser9/mazika)  
+### [mazika](https://github.com/mostafanasser9/mazika)  
 Mazika is a responsive music streaming web app built with React (Vite) and Material UI, featuring dynamic search, playlists, artist pages, and a mini player. Backend powered by Node.js, Express, MongoDB Atlas, and SendGrid.
 
 ---
