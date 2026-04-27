@@ -11,7 +11,7 @@
 
 ### Full-Stack Developer · Alexandria, Egypt
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafanasser04/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moustafanasserr/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafaadelnasser@gmail.com)
 
 </div>
@@ -79,7 +79,7 @@ Built to solve a real problem: protecting savings from EGP currency devaluation.
 `Status: Live`
 
 [![Live](https://img.shields.io/badge/Live_Demo-▶_Visit-%2300C7B7?style=flat-square&logo=vercel)](https://wealthguard-rose.vercel.app/)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-%23181717?style=flat-square&logo=github)](https://github.com/mostafanasser9/wealthguard)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-%23181717?style=flat-square&logo=github)](https://github.com/mostafanasserr/wealthguard)
 
 </td>
 </tr>
@@ -113,8 +113,8 @@ Built to solve a real problem: protecting savings from EGP currency devaluation.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafanasser9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafanasser9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafanasserr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafanasserr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
 
 </div>
 
